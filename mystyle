@@ -1,11 +1,12 @@
 /* заголовок Легендарные игры */
  h1{
 color: gold;
+font-size:8vh;
  }
 
 /* заголовки (starcraft, GTA, S.T.A.L.K.E.R, DOOM) */
 h2{
-
+font-size: 3vh;
 }
 
 table.text  {
@@ -20,4 +21,5 @@ table.text  {
     text-align: right; 
    }
 
+body{background-color: rgba(51, 165, 70, 0.479);}
 /*  */
