@@ -1,1 +1,23 @@
-/* I'm here */
+/* заголовок Легендарные игры */
+ h1{
+color: gold;
+ }
+
+/* заголовки (starcraft, GTA, S.T.A.L.K.E.R, DOOM) */
+h2{
+
+}
+
+table.text  {
+    width:  100%; 
+    border-spacing: 0; 
+   }
+   table.text td {
+    width: 50%; 
+    vertical-align: top; 
+   }
+   td.rightcol { 
+    text-align: right; 
+   }
+
+/*  */
