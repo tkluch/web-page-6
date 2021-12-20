@@ -1,0 +1,25 @@
+/* заголовок Легендарные игры */
+ h1{
+color: gold;
+font-size:8vh;
+ }
+
+/* заголовки (starcraft, GTA, S.T.A.L.K.E.R, DOOM) */
+h2{
+font-size: 3vh;
+}
+
+table.text  {
+    width:  100%; 
+    border-spacing: 0; 
+   }
+   table.text td {
+    width: 50%; 
+    vertical-align: top; 
+   }
+   td.rightcol { 
+    text-align: right; 
+   }
+
+body{background-color: rgba(51, 165, 70, 0.479);}
+/*  */
