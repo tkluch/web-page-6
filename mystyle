@@ -9,6 +9,11 @@ h2{
 font-size: 3vh;
 }
 
+a{
+    font-size: 2vh;
+    color: crimson;
+}
+
 table.text  {
     width:  100%; 
     border-spacing: 0; 
