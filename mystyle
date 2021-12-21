@@ -14,6 +14,11 @@ a{
     color: crimson;
 }
 
+p{
+    color: rgb(49, 74, 158);
+    font-size: 2vh
+}
+
 table.text  {
     width:  100%; 
     border-spacing: 0; 
