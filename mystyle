@@ -31,5 +31,8 @@ table.text  {
     text-align: right; 
    }
 
-body{background-color: rgba(51, 165, 70, 0.479);}
+body{background-color: rgba(51, 165, 70, 0.479);
+color: rgb(39, 30, 168);
+font-size: 2vh;
+}
 /*  */
